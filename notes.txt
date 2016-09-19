@@ -1,0 +1,19 @@
+cat /dev/urandom 
+
+print(chr(random.randint(128,9000)), end="")
+end character!!
+
+works on python3
+
+stdout.flush()
+sleep(0.01)
+
+pip3 install for python3
+
+pip3 install noise -> controlled randomness
+
+noise returns between -0.5 and 0.5
+
+pip3 install blessings
+
+terminal imported from blessings
